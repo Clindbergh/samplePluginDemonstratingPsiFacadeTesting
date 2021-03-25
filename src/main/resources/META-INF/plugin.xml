@@ -1,0 +1,11 @@
+<idea-plugin>
+    <id>samplePluginDemonstratingPsiFacadeTesting</id>
+    <name>samplePluginDemonstratingPsiFacadeTesting</name>
+    <vendor>thatwouldbeme</vendor>
+
+    <!-- Product and plugin compatibility requirements -->
+    <!-- https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
+    <depends>com.intellij.modules.platform</depends>
+    <depends>com.intellij.modules.java</depends>
+
+</idea-plugin>
